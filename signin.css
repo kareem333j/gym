@@ -101,7 +101,7 @@ section{
 
 .input-box input:focus~label,
 .input-box input:valid~label{
-    top: -5px;
+    top: -8px;
 }
 .input-box input:focus{
     background-color: transparent;
